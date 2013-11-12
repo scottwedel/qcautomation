@@ -24,7 +24,7 @@ loop = 0
 menus = ['Monitored', 'Not Monitored', 'My Queries', 'Trial Intel']
 
 
-# start up browser
+# start up browser after starting headless
 
 # uncomment the line corresponding to the browser against which you want to test (blank = firefox)
 
